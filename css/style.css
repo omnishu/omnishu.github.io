@@ -2884,3 +2884,18 @@ background: rgba(245, 245, 245, 0.9);
 		width: 100%;
 		margin: 10px 0;
 	}
+	.important-links{
+		text-align: left;
+	}
+	.current-index p {
+		margin-top: 0px;
+	}
+	.current-index li {
+		list-style: none;
+	}
+	.home-link{
+		margin: 10px 0;
+	}
+	.bottom-links{
+		margin-top: 20px;
+	}
