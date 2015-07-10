@@ -2899,3 +2899,9 @@ background: rgba(245, 245, 245, 0.9);
 	.bottom-links{
 		margin-top: 20px;
 	}
+	.wantto-section{
+		padding-top: 0px;
+	}
+	.subscribe{
+		display: none;
+	}
