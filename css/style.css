@@ -2870,8 +2870,10 @@ background: rgba(245, 245, 245, 0.9);
 		}
 	}
 				
-	.calculators-section{
-		text-align: center;
+	.calculators-section > iframe{
+		width: 50%;
+		height: 200px;
+		float: left;
 	}
 	.beautifull-grids{
 		border: 1px solid;
@@ -2904,4 +2906,7 @@ background: rgba(245, 245, 245, 0.9);
 	}
 	.subscribe{
 		display: none;
+	}
+	.checkout-section{
+		padding-top: 0px;
 	}
