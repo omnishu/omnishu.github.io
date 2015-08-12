@@ -979,3 +979,11 @@ span[class*="border-"] {
 .pink-button:hover {
     color: #fff;
 }
+
+.inner-story > a {
+    color: #000;
+}
+
+.inner-story > a:hover {
+    text-decoration: underline;
+}
