@@ -11,3 +11,40 @@
   background-color: #000;
   color: #fff;
 }
+
+.borderexample
+{
+border-style:solid;
+border-color:#287EC7;
+}
+
+.limit-update2 {
+  height: 230px;
+  overflow: hidden;
+}
+
+.sidebar {
+    background: red;
+    margin: 10px;
+    padding: 0 7px 0 7px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.box1 {
+    display: block;
+    padding: 0px;
+    margin-bottom: 0px;
+    text-align: justify;
+}
+
+.box2 {
+    display: block;
+    padding: 10px;
+    text-align: justify;
+}
+
+.limit-update3 {
+  height: 500px;
+  overflow: hidden;
+}
