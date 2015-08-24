@@ -987,3 +987,19 @@ span[class*="border-"] {
 .inner-story > a:hover {
     text-decoration: underline;
 }
+
+@media screen and (min-width: 993px) {
+    .container2 {
+        padding-right: 40px;
+        padding-left: 40px;
+        height: 397px;
+        overflow: hidden;
+    }
+}
+
+.post-10 {
+    -moz-animation-delay: 2.3s;
+    -webkit-animation-delay: 2.3s;
+    animation-delay: 2.3s;
+    overflow: hidden;
+}
