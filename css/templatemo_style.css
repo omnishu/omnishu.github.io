@@ -1003,3 +1003,11 @@ span[class*="border-"] {
     animation-delay: 2.3s;
     overflow: hidden;
 }
+.project-title1 {
+    padding: 3px;
+    background: #46494f;
+    margin-bottom: 3px;
+    -moz-animation-delay: 0.5s;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
