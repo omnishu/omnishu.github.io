@@ -1014,11 +1014,12 @@ span[class*="border-"] {
 }
 
 .project-item2 {
+    margin-top: 50px;
     margin-bottom: 3px;
     position: relative;
     overflow: hidden;
-    height: 50px;
-    border: 3px solid #1a1c1f;
+    height: 57px;
+    border: 2px solid #1a1c1f;
     -moz-backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
